@@ -1,0 +1,34 @@
+.container {
+    box-sizing: border-box;
+    margin-top: 152px;
+  }
+  .page-title {
+    box-sizing: border-box;
+    max-width: 280px;
+    font: 400 14px Poppins;
+    color: black;
+  }
+  .flex-container {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 20px;
+  }
+  .shop-now-text1 {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    font: 500 16px Dosis;
+    color: black;
+    text-decoration-line: underline;
+  }
+  .line-separator {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 22px;
+    margin-left: 4.5px;
+    border-top: 1px solid black;
+  }
+  
+  

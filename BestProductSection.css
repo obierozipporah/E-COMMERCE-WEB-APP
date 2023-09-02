@@ -1,0 +1,17 @@
+.product-list-container {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 53px;
+  }
+  .best-products-heading {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    font: 300 30px Poppins;
+    color: black;
+  }
+  
+  

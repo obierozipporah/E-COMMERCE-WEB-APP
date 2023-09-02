@@ -1,0 +1,14 @@
+.main-container1 {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    padding-top: 42px;
+    padding-right: 12px;
+    padding-left: 12px;
+    margin-top: -7px;
+    background: #efefef;
+  }
+  

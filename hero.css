@@ -1,0 +1,65 @@
+.main-container {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    padding: 31.5px 17.5px 326px 20px;
+    background: url(../images/hero2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .product-container {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: flex-start;
+  }
+  .flex-column-container {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    width: 37.93%;
+    height: 33px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .image-container {
+    box-sizing: border-box;
+    display: block;
+    width: 113px;
+    max-width: initial;
+    height: 27px;
+    border: none;
+    object-fit: cover;
+  }
+  .img-content-5279ac68 {
+    content: url("../images/logo3.png");
+  }
+  .flex-container-with-svg {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    gap: 5px;
+    align-items: flex-start;
+    justify-content: flex-end;
+    width: 62.07%;
+  }
+  .svg-container {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    width: 32px;
+    height: 32px;
+    color: #ffffff;
+  }
+  
+  
+  

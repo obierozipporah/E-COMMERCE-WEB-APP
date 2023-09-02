@@ -1,0 +1,39 @@
+.page-header-container {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    padding: 19px 19px 33px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .content-box {
+    box-sizing: border-box;
+    max-width: 67px;
+    padding: 4px;
+    background: rgba(255, 255, 255, 0.83);
+  }
+  .flex-centered-box {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    height: 59px;
+    padding-right: 15.5px;
+    padding-left: 15.5px;
+    border: 1px solid rgba(0, 0, 0, 0.04);
+  }
+  .center-text {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    font: 400 14px Inter;
+    color: black;
+    text-align: center;
+  }
+  .font-size-large {
+    font-size: 24px;
+  }
+  .font-size-small {
+    font-size: 12px;
+  }
+  
+  

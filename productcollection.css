@@ -1,0 +1,33 @@
+.shop-now-container {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    padding-right: 5.5px;
+    margin-top: 251px;
+  }
+  .shop-now-container1 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    background: rgba(255, 255, 255, 0.83);
+  }
+  .product-title {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    max-width: 184px;
+    font: 300 30px/33px Poppins;
+    color: black;
+    text-align: center;
+  }
+  .shop-now-text {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    margin-top: 18px;
+    font: 500 16px Dosis;
+    color: black;
+    text-decoration-line: underline;
+  }
+  

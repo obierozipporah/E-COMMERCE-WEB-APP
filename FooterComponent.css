@@ -1,0 +1,27 @@
+.footer-container {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    height: 71px;
+    padding-right: 6.5px;
+    padding-left: 6.5px;
+    margin-top: 44px;
+  }
+  .copyright-text {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    font: 400 16px Poppins;
+    color: black;
+  }
+  .tmart-rights-text {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    margin-left: 13px;
+    font: 400 16px Poppins;
+    color: black;
+  }
+  
+  

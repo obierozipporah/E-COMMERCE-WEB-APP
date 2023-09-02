@@ -1,0 +1,12 @@
+.main-container2 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 53px;
+    align-items: stretch;
+    justify-content: flex-start;
+    min-width: 375px;
+    background: white;
+  }
+  
+  

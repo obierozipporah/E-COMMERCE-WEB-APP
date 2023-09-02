@@ -1,0 +1,80 @@
+.furniture-collection {
+    box-sizing: border-box;
+    min-width: 350px;
+    padding: 33px 16px 60px;
+    background: url(../images/furniture2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .furniture-collection-title {
+    box-sizing: border-box;
+    max-width: 132px;
+    font: 300 20px/25px Poppins;
+    color: black;
+    text-align: center;
+  }
+  .furniture-collection-button {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 17px;
+  }
+  .shop-now-text {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    font: 500 16px Dosis;
+    color: black;
+    text-decoration-line: underline;
+  }
+  .shop-now-border {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 22px;
+    margin-left: 5px;
+    border-top: 1px solid black;
+  }
+
+  
+
+  .basket-collection-section {
+    box-sizing: border-box;
+    min-width: 350px;
+    padding: 33px 16px 60px;
+    background: url(https://s3-alpha-sig.figma.com/img/a7d2/88be/d516142841d724edf4710134e3820fa4?Expires=1694390400&Signature=CZrVzIX3~iHVWiu4cPXuBdZleQHEqx3yjo7VdCrBrc3qHqJ6ALxNWlcOOt32z0zsYZuPPstasmAkIPlA2feZh1iUKHRU~taED3YzumFz-ehzcTKsulyySdqe5pIxEBftSRebM85CbMi-eH6QfplyFuRdKksHJE6BVNkgf7zezTMNdIrA2ILYYKBtYNWzLySPaw7ynDJNhxiDugitc63WskC36llR~v4V99iEyCjI~mEJ5PMVHCaMSJrVhsM5p8lXqCmgdiWl2emG6znbFOnUSEbNOezOl7sVox9KB72vSxPTspPz64wapInd9kWCd0SKA-TYwm21FFgR6IoQjz5c3Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .basket-collection-title {
+    box-sizing: border-box;
+    max-width: 120px;
+    padding-right: 7.25px;
+    padding-left: 7.25px;
+    font: 300 20px/25px Poppins;
+    color: black;
+    text-align: center;
+  }
+  .furniture-collection-button {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 17px;
+  }
+  .shop-now-text {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    font: 500 16px Dosis;
+    color: black;
+    text-decoration-line: underline;
+  }
+  .shop-now-border {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 22px;
+    margin-left: 5px;
+    border-top: 1px solid black;
+  }
+  

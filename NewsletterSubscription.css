@@ -1,0 +1,19 @@
+.newsletter-container {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    padding-right: 7px;
+    padding-left: 7px;
+    margin-top: 63px;
+  }
+  .newsletter-promo-text {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    max-width: 315px;
+    font: 400 16px Poppins;
+    color: black;
+  }
+  

@@ -1,0 +1,22 @@
+.furniture-collection1 {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+  }
+  .contact-info-image {
+    box-sizing: border-box;
+    display: block;
+    flex: 0 0 auto;
+    width: 100px;
+    max-width: initial;
+    height: 24px;
+    border: none;
+    object-fit: cover;
+  }
+  .img-content-4b6217ce {
+    content: url("../images/logo2.png");
+  }
+  

@@ -1,0 +1,17 @@
+.contact-info-container1 {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 13px;
+    align-items: stretch;
+    justify-content: center;
+    padding-right: 7px;
+    padding-left: 7px;
+    margin-top: 28px;
+  }
+  .contact-info-container:last-child {
+    margin-top: 1.13px;
+  }
+  
+  

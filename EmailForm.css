@@ -1,0 +1,39 @@
+.email-container {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 14px;
+    margin-top: 27px;
+    background: #f9f9f9;
+  }
+  .email-input-label {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    font: 400 14px Poppins;
+    color: #7a7a7a;
+  }
+  .email-input-container {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    height: 40px;
+    padding-right: 12px;
+    padding-left: 12px;
+    background: #d9d9d9;
+  }
+  .svg-container2 {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    width: 24px;
+    height: 24px;
+  }
+  
+  
